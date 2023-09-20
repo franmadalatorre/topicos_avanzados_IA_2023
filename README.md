@@ -1,1 +1,1 @@
-# topicos_avanzados_IA_2023
+# Tópicos avanzados en IA - 2023
