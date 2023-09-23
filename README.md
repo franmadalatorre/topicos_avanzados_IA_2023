@@ -223,9 +223,13 @@ Authors: Sebastian Borgeaud et al. <br>
 Paper: https://arxiv.org/abs/2112.04426 <br>
 
 <br>
+
 ---
+
 # FIN PRIMER CICLO LECTURAS
+
 --- 
+
 <br>
 
 
@@ -454,9 +458,15 @@ Paper: https://arxiv.org/abs/1903.00445 <br>
 Authors: Michael Schlichtkrull, Thomas N. Kipf, Peter Bloem, Rianne van den Berg, Ivan Titov, Max Welling <br>
 Paper: https://arxiv.org/abs/1703.06103 <br>
 
+<br>
+
 ---
-#  FIN SEGUNDO CICLO LECTURAS
----
+
+# FIN SEGUNDO CICLO LECTURAS
+
+--- 
+
+<br>
 
 
 ## Lectura 27/11: GANs and Diffusion Models
