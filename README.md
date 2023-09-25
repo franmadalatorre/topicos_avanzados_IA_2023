@@ -7,7 +7,7 @@ Authors: Tom B. Brown et al. <br>
 Paper: https://papers.nips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf <br>
 
 ### Presentacion 1: Attention Is All You Need
-**Presentador:** Matías Marambio <br>
+**Presentador:** Matías Marambio ([Slides](https://github.com/franmadalatorre/topicos_avanzados_IA_2023/blob/main/slides/Attention%20is%20All%20you%20need%20-%20Mati%CC%81as%20Ignacio%20Marambio%20Jime%CC%81nez.pdf)) <br>
 Authors: Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin) <br>
 Paper: https://arxiv.org/abs/1706.03762 <br>
 
@@ -29,7 +29,7 @@ Authors: Kaiming He, Xinlei Chen, Saining Xie, Yanghao Li, Piotr Dollár, and Ro
 Paper: https://arxiv.org/abs/2111.06377 <br>
 
 ### Presentacion 1: A Simple Framework for Contrastive Learning of Visual Representations
-**Presentador:** Sebastían Poblete <br>
+**Presentador:** Sebastían Poblete ([Slides](https://github.com/franmadalatorre/topicos_avanzados_IA_2023/blob/main/slides/A%20simple%20framework%20for%20CL%20of%20VR%20-%20Sebastian%20Poblete.pdf)) <br>
 Authors: Ting Chen, Simon Kornblith, Mohammad Norouzi, Geoffrey Hinton <br>
 Paper: https://arxiv.org/abs/2002.05709 <br>
 
@@ -57,7 +57,7 @@ Authors: Prannay Kaul, Weidi Xie, Andrew Zisserman <br>
 Paper: https://arxiv.org/abs/2306.05493 <br>
 
 ### Presentacion 2: BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models
-**Presentador:** Nicolás Godoy <br>
+**Presentador:** Nicolás Godoy ([Slides](https://github.com/franmadalatorre/topicos_avanzados_IA_2023/blob/main/slides/BLIP-2%20-%20Nicola%CC%81s%20Andre%CC%81s%20Godoy%20Franco.pdf)) <br>
 Authors: Junnan Li, Dongxu Li, Silvio Savarese, Steven Hoi <br>
 Paper: https://arxiv.org/abs/2301.12597 <br>
 
@@ -80,7 +80,7 @@ Authors: Hugo Touvron et al. <br>
 Paper: https://arxiv.org/abs/2307.09288 <br>
 
 ### Presentacion 2: Direct preference optimization: Your language model is secretly a reward model
-**Presentador:** Sebastían Burgos <br>
+**Presentador:** Sebastían Burgos ([Slides](https://github.com/franmadalatorre/topicos_avanzados_IA_2023/blob/main/slides/Direct%20Preference%20Opt%20-%20Sebastian%20Burgos.pdf))<br>
 Authors: Rafael Rafailov, Archit Sharma, Eric Mitchell, Stefano Ermon, Christopher D Manning, Chelsea Finn <br>
 Paper: https://arxiv.org/pdf/2305.18290.pdf?trk=public_post_comment-text <br>
 
@@ -120,7 +120,7 @@ Authors: Robert Geirhos, Jörn-Henrik Jacobsen, Claudio Michaelis, Richard Zemel
 Paper: https://arxiv.org/abs/2004.07780 <br>
 
 ### Presentacion 1: Understanding deep learning requires rethinking generalization
-**Presentador:** Darwin Sanhueza <br>
+**Presentador:** Darwin Sanhueza ([Slides](https://github.com/franmadalatorre/topicos_avanzados_IA_2023/blob/main/slides/Understanding%20DL%20-%20Darwin%20Sanhueza.pdf)) <br>
 Paper: https://arxiv.org/abs/1611.03530 <br>
 
 ### Presentacion 2: Opening the Black Box of Deep Neural Networks via Information
@@ -129,7 +129,7 @@ Authors: Ravid Shwartz-Ziv, Naftali Tishby <br>
 Paper: https://arxiv.org/abs/1703.00810?ref=hackernoon.com <br>
 
 ### Presentacion 3: Shortcutted Commonsense: Data Spuriousness in Deep Learning of Commonsense Reasoning
-**Presentador:** Borja Marquez de la Plata <br>
+**Presentador:** Borja Marquez de la Plata ([Slides](https://github.com/franmadalatorre/topicos_avanzados_IA_2023/blob/main/slides/ShortcuttedCommonsense%20-%20Borja%20Marquez.pdf))<br>
 Authors: Ruben Branco, António Branco, João António Rodrigues, João Ricardo Silva <br>
 Paper: https://aclanthology.org/2021.emnlp-main.113/ <br>
 
