@@ -12,12 +12,12 @@ Authors: Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones
 Paper: https://arxiv.org/abs/1706.03762 <br>
 
 ### Presentacion 2: Deep contextualized word representations
-**Presentador:** Daniel Gomez <br>
+**Presentador:** Daniel Gomez ([Slides](https://github.com/franmadalatorre/topicos_avanzados_IA_2023/blob/main/slides/Deep%20contextualized%20-%20Daniel%20Gomez.pdf)) <br>
 Authors: Matthew E. Peters, Mark Neumann, Mohit Iyyer, Matt Gardner, Christopher Clark, Kenton Lee, Luke Zettlemoyer) <br>
 Paper: https://arxiv.org/abs/1802.05365
 
 ### Presentacion 3: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
-**Presentador:** Nicolás Mendicoa <br>
+**Presentador:** Nicolás Mendicoa ([Slides](https://github.com/franmadalatorre/topicos_avanzados_IA_2023/blob/main/slides/BERT%20-%20Nicolas%20Mendicoa.pptx))<br>
 Authors: Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova <br>
 Paper: https://arxiv.org/abs/1810.04805 <br>
 
@@ -34,7 +34,7 @@ Authors: Ting Chen, Simon Kornblith, Mohammad Norouzi, Geoffrey Hinton <br>
 Paper: https://arxiv.org/abs/2002.05709 <br>
 
 ### Presentacion 2: Segment Anything
-**Presentador:** Arzhela Roperch <br>
+**Presentador:** Arzhela Roperch ([Slides](https://github.com/franmadalatorre/topicos_avanzados_IA_2023/blob/main/slides/Segment%20anything%20-%20Arzhela%20Roperch.pdf))<br>
 Authors: Alexander Kirillov et al. <br>
 Paper: https://arxiv.org/abs/2304.02643 <br>
 
@@ -52,7 +52,7 @@ Authors: Alec Radford et al. <br>
 Paper: https://arxiv.org/abs/2103.00020 <br>
 
 ### Presentacion 1: Multi-Modal Classifiers for Open-Vocabulary Object Detection
-**Presentador:** Miguel Fernández <br>
+**Presentador:** Miguel Fernández ([Slides](https://github.com/franmadalatorre/topicos_avanzados_IA_2023/blob/main/slides/Multi-Modal%20Classifiers%20-%20Miguel%20Fernandez.pdf))<br>
 Authors: Prannay Kaul, Weidi Xie, Andrew Zisserman <br>
 Paper: https://arxiv.org/abs/2306.05493 <br>
 
@@ -62,7 +62,7 @@ Authors: Junnan Li, Dongxu Li, Silvio Savarese, Steven Hoi <br>
 Paper: https://arxiv.org/abs/2301.12597 <br>
 
 ### Presentacion 3: FLAVA: A Foundational Language And Vision Alignment Model
-**Presentador:** Ariel Reyes <br>
+**Presentador:** Ariel Reyes ([Slides](https://github.com/franmadalatorre/topicos_avanzados_IA_2023/blob/main/slides/FLAVA%20-%20Ariel%20Reyes.pdf))<br>
 Authors: Amanpreet Singh, Ronghang Hu, Vedanuj Goswami, Guillaume Couairon, Wojciech Galuba, Marcus Rohrbach, Douwe Kielax <br>
 Paper: https://arxiv.org/abs/2112.04482 <br>
 
@@ -85,7 +85,7 @@ Authors: Rafael Rafailov, Archit Sharma, Eric Mitchell, Stefano Ermon, Christoph
 Paper: https://arxiv.org/pdf/2305.18290.pdf?trk=public_post_comment-text <br>
 
 ### Presentacion 3:  Finetuned Language Models Are Zero-Shot Learners
-**Presentador:** Benjamín Escobar <br>
+**Presentador:** Benjamín Escobar ([Slides](https://github.com/franmadalatorre/topicos_avanzados_IA_2023/blob/main/slides/FINETUNED%20LANGUAGE%20%20-%20Benjami%CC%81n%20Escobar%20-%20.pdf)) <br>
 Authors: Jason Wei et al. <br>
 Paper: https://arxiv.org/abs/2109.01652 <br>
 
@@ -108,7 +108,7 @@ Authors: J. Wei, X. Wang, D. Schuurmans, M. Bosma, E. Chi, Q. Le and D. Zhou <br
 Paper: https://arxiv.org/pdf/2201.11903v4.pdf <br>
 
 ### Presentacion 3: Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?
-**Presentador:** Tomás Vergara <br>
+**Presentador:** Tomás Vergara ([Slides](https://github.com/franmadalatorre/topicos_avanzados_IA_2023/blob/main/slides/Rethinking_the_Role%20-%20Tomas%20Vergara.pdf))<br>
 Authors: Sewon Min, Xinxi Lyu, Ari Holtzman, Mikel Artetxe, Mike Lewis, Hannaneh Hajishirzi, Luke Zettlemoyer <br>
 Paper: https://arxiv.org/pdf/2202.12837.pdf <br>
 
@@ -151,7 +151,7 @@ Authors: Sam Ritter, Ryan Faulkner, Laurent Sartran, Adam Santoro, Matt Botvinic
 Paper: https://arxiv.org/abs/2006.03662 <br>
 
 ### Presentacion 3: Compositional generalization through meta sequence-to-sequence learning
-**Presentador:** Rafael Elberg <br>
+**Presentador:** Rafael Elberg ([Slides](https://github.com/franmadalatorre/topicos_avanzados_IA_2023/blob/main/slides/Compositional%20generalization%20-%20Rafael%20Elberg.pdf)) <br>
 Authors: Brenden M. Lake <br>
 Paper: https://arxiv.org/abs/1906.05381 <br>
 
